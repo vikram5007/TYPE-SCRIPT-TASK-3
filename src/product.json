@@ -1,0 +1,26 @@
+[
+    {
+        "productid": "0001",
+        "product name": "pencil box",
+        "price": 100,
+        "quantity": 50
+    },
+    {
+        "productid": "0002",
+        "product name": "pencil stand",
+        "price": 150,
+        "quantity": 10
+    },
+    {
+        "productid": "0003",
+        "product name": "mobile stand",
+        "price": 1000,
+        "quantity": 15
+    },
+    {
+        "productid": "0004",
+        "product name": "headphone",
+        "price": 1500,
+        "quantity": 30
+    }
+]
